@@ -99,6 +99,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 This project was developed as part of a course project. Special thanks to the course instructors and peers for their guidance and feedback.
-Gunturu Akhil Sai Krishna Mouli (23166)
+Gunturu Akhil Sai Krishna Mouli (Team Member)
 
 
