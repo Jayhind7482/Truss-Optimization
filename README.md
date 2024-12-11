@@ -73,7 +73,7 @@ Key features include:
    OptCriteriaTruss.m
    ```
 
-4. Customize input parameters in the `config.m` file, such as:
+4. Customize input parameters in the `GroundStructure_3d.m` file, such as:
    - Node positions
    - Applied loads
    - Material properties
