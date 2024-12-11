@@ -63,14 +63,14 @@ Key features include:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/truss-optimization-3d.git
+   git clone https://github.com/Jayhind7482/Truss-Optimization.git
    ```
 
 2. Open MATLAB and navigate to the project directory.
 
 3. Run the main script:
    ```matlab
-   main.m
+   OptCriteriaTruss.m
    ```
 
 4. Customize input parameters in the `config.m` file, such as:
@@ -88,17 +88,7 @@ Key features include:
 
 Example Output:
 - Initial vs. Optimized Truss Structure.
-- Strain energy and displacement comparison.
-
----
-
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m 'Add feature-name'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Submit a pull request.
+- Strain energy Vs Iteration.
 
 ---
 
@@ -109,5 +99,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 This project was developed as part of a course project. Special thanks to the course instructors and peers for their guidance and feedback.
+Gunturu Akhil Sai Krishna Mouli (23166)
 
 
